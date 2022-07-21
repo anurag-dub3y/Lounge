@@ -5,4 +5,4 @@ Once a user is logged in, they can view posts created by other users in the home
 There is also an added functionality of regenerating forgotten passwords with the help of the Nodemailer package.
 In the future, a post will also be able to have image(s) along with the main content.
 
-Currently working on the frontend part.
+This project will soon be deployed with Heroku.
